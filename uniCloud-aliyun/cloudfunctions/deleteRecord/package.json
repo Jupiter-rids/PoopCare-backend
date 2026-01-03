@@ -1,0 +1,7 @@
+{
+  "name": "deleteRecord",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

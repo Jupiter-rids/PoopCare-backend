@@ -1,0 +1,7 @@
+{
+  "name": "verifyToken",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
